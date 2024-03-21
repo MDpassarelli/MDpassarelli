@@ -1,5 +1,5 @@
 - 👋 olá, sou Passarelli
-- 👀 Estou interessado em nq área de Desenvolvimento
+- 👀 Estou interessado na área de Desenvolvimento
 - 🌱 Estou atualmente aprendendo Python
 - 📫 Inst: Passarelli_mp
 - ⚡ Academico de Engenharia Civil.
